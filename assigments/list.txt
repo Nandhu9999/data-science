@@ -1,0 +1,8 @@
+Assignment #1
+Basics pf Numpy and Pythons
+
+Assignment #2
+Creating Dataframes and running pandas commands
+
+Assigment #3
+Documentation on Alameda County case
